@@ -56,7 +56,7 @@ button:hover, button.active {
       margin-top: 20px;
     }
   
-    div.ex2 {
+    div {
       max-width: 100%;
       justify-content: center;
     }
